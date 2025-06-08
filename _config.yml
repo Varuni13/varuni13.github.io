@@ -17,10 +17,14 @@ author:
   avatar: "/assets/images/avatar.png"
   bio: "First-year eMasters student in Data Science at IIT Gandhinagar."
 
-#  Header navigation
-header_pages:
-  - index.md
-  - about.md
-  - projects.md
-  - blog.md
+# add this section instead:
+navigation:
+  - title: "Home"
+    url: /
+  - title: "About"
+    url: /about/
+  - title: "Projects"
+    url: /projects/
+  - title: "Blog"
+    url: /blog/
 
