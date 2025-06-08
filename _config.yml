@@ -33,3 +33,16 @@ header:
   overlay_filter: "0.5"
   show_overlay_excerpt: true
   show_nav: true
+
+# Enable site-wide nav in header
+minimal_mistakes_skin: "default"  # optional, for style
+locale: "en-US"
+
+# This is the key that was missing 
+defaults:
+  - scope:
+      path: ""
+      type: "pages"
+    values:
+      layout: single
+      author_profile: true

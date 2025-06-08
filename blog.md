@@ -1,8 +1,10 @@
 ---
-layout: home
-title: "Blog"
-permalink: /blog/
+layout: single
+title: "About"
+permalink: /about/
+author_profile: true
 ---
+
 
 Welcome to my blog! I write about:
 

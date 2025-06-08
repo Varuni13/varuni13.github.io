@@ -1,8 +1,10 @@
 ---
-layout: page
-title: "About Me"
+layout: single
+title: "About"
 permalink: /about/
+author_profile: true
 ---
+
 
 Hi! I'm Varuni Singh, a postgraduate student at IIT Gandhinagar.
 
