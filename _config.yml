@@ -16,16 +16,6 @@ author:
   avatar: "/assets/images/avatar.png"
   bio: "First-year eMasters student in Data Science at IIT Gandhinagar."
 
-# Navigation menu
-navigation:
-  - title: "Home"
-    url: /
-  - title: "About"
-    url: /about/
-  - title: "Projects"
-    url: /projects/
-  - title: "Blog"
-    url: /blog/
 
 # Show navbar
 header:
