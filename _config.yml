@@ -1,4 +1,19 @@
-title: Varuni Singh
-description: Portfolio and blogs on data science and AI
-theme: jekyll-theme-modernist    
+title: "Varuni Singh"
+description: "Data Science | Projects | Blog"
+baseurl: "" 
+url: "https://varuni13.github.io"
 
+remote_theme: "mmistakes/minimal-mistakes"
+plugins:
+  - jekyll-include-cache
+
+author:
+  name: "Varuni Singh"
+  avatar: "/assets/images/avatar.png"  # optional image
+  bio: "First-year eMasters student in Data Science at IIT Gandhinagar."
+
+# Navigation menu
+header_pages:
+  - about.md
+  - projects.md
+  - blog.md
