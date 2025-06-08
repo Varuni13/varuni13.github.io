@@ -1,23 +1,22 @@
 title: "Varuni Singh"
 description: "Data Science | Projects | Blog"
-baseurl: "" 
+baseurl: ""
 url: "https://varuni13.github.io"
 
-# Theme settings
+# Theme
 remote_theme: "mmistakes/minimal-mistakes"
 
-# Required plugin for remote themes
+# Plugins required
 plugins:
-  - jekyll-remote-theme
   - jekyll-include-cache
+  - jekyll-remote-theme
 
-# Author details
 author:
   name: "Varuni Singh"
   avatar: "/assets/images/avatar.png"
   bio: "First-year eMasters student in Data Science at IIT Gandhinagar."
 
-# add this section instead:
+# Navigation menu
 navigation:
   - title: "Home"
     url: /
@@ -28,3 +27,9 @@ navigation:
   - title: "Blog"
     url: /blog/
 
+# Show navbar
+header:
+  overlay_color: "#000"
+  overlay_filter: "0.5"
+  show_overlay_excerpt: true
+  show_nav: true
