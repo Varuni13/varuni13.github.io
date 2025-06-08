@@ -1,9 +1,24 @@
 ---
 layout: splash
-title: "Welcome to My Website"
+title: "Hi, I’m Varuni"
+subtitle: "Postgraduate Student | AI/ML Explorer | Data-Driven Creator"
+header:
+  overlay_image: /assets/images/banner.jpg
+  overlay_filter: 0.4
+  actions:
+    - label: "View Projects"
+      url: "/projects/"
+    - label: "Read Blog"
+      url: "/blog/"
 author_profile: true
 ---
 
-Hi, I’m **Varuni**, a postgraduate student at _IIT Gandhinagar_ in **Data Science for Decision Making**.
+Welcome to my personal portfolio and knowledge space!
 
-This site documents my **projects**, **blogs**, and academic journey in AI, ML, and optimization.
+Here you’ll find:
+
+- 🔬 Projects blending AI, data science, and optimization
+- 🧠 Technical blogs with practical insight
+- 📘 Academic notes and experiments
+
+> I believe in learning by doing — and sharing knowledge openly.

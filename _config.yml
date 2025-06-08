@@ -5,6 +5,8 @@ url: "https://varuni13.github.io"
 
 # Theme
 remote_theme: "mmistakes/minimal-mistakes"
+minimal_mistakes_skin: "air"   # or "dark", "mint", "neon", "contrast"
+
 
 # Plugins required
 plugins:
